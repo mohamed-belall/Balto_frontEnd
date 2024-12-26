@@ -12,7 +12,10 @@ const data = {
         { name: "James White", type: "Video Consulting", time: "11:00 AM" },
         { name: "Isabella Clark", type: "Emergency", time: "11:30 AM" },
         { name: "Ethan Hall", type: "Clinic Consulting", time: "01:00 PM" },
-        { name: "Mia Lewis", type: "Routine Check-up", time: "02:00 PM" }
+        { name: "Mia Lewis", type: "Routine Check-up", time: "02:00 PM" },
+        { name: "Mai ibrahim", type: "Routine Check-up", time: "02:00 PM" },
+        { name: "khaled Abbas", type: "Routine Check-up", time: "02:00 PM" },
+        { name: "Ahmed wael", type: "Routine Check-up", time: "02:00 PM" }
     ]
 };
 
